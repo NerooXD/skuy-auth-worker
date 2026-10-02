@@ -1,0 +1,13 @@
+{
+  "name": "worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-02",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "worker-auth-db",
+      "database_id": "7ed88f72-7df6-499d-9f0b-e7bb37edf42a"
+    }
+  ]
+}
